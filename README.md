@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Pet Adoption Landing Page 🐾
 A responsive, interactive, and accessible landing page designed to promote the adoption of pets. This project showcases modern web development practices and aims to provide an engaging user experience for potential pet adopters.
 
